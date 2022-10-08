@@ -7,33 +7,33 @@
   "stack": "container",
   "env": {
     "SESSION_NAME": {
-      "description": "Pyrogram session string"BACi0yoAD0GzbOKrkEDUSW_bRWIeCm7wktbj_kICKNwqEM-Hngas8jLXOv_P1-wR7_lllqAFE6jJAuXYE_zsfo8zh68_eTBdGzBO_POxU48ZTeYthe3KeFz5l7h9-8mRLsoTpYOB1Ovb5dA9ddz0c_slXtoVrRGAfkPb80Kynvb28llp4LoePexzOQD9VlROEGwolq3D7s2b8rzpMH8IZxGj33-LXVX3P9ekvqHgC6WE48JN0z6uRP5vDVbsrkFicPa0A6Bt2Tu0y0aJ9VXhY3AmbhPIB7MzfDUMUhFp-zhol-eAdvdgkzAz6KeSaBmD-aBIBUu44wQZLTpQUvP602MqUjJ2EwAAAAB1bUfuAA
+      "description": "string_session"
     },
     "BOT_TOKEN": {
-      "description": "A bot token from @BotFather"5691474077:AAFvN83AXRoUNtaZBAvb16o8R5sFgNHpkEg
+      "description": "A bot token from @BotFather"
     },
     "START_IMG": {
       "description": "Telegraph Link Of An Image",
       "required": false
     },
     "API_ID": {
-      "description": "App ID from my.telegram.org/apps"10670890
+      "description": "App ID from my.telegram.org/apps"
     },
     "API_HASH": {
-      "description": "App hash from my.telegram.org/apps"b8c18624a9a4b397e9989c30904de9d2
+      "description": "App hash from my.telegram.org/apps"
     },
     "SUDO_USERS": {
-      "description": "List of user IDs counted as admin everywhere (separated by space)."5516320714
+      "description": "List of user IDs counted as admin everywhere (separated by space).
     },
     "ARQ_API_KEY": {
-      "description": "Get It From @ArqRoBot"URBSYS-ZYTHMM-XGARCU-QXXZFC-ARQ
+      "description": "Get It From @ArqRoBot"
     },
     "BOT_USERNAME": {
-      "description": "Your Bot's Username Without @."epsirafi_bot
+      "description": "Your Bot's Username Without @."
     },
     "DURATION_LIMIT": {
       "description": "Max audio duration limit for downloads (minutes).",
-      "value": "10000"
+      "value": "10"
     }
   }
 }

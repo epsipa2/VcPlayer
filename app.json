@@ -1,39 +1,39 @@
 {
   "name": "Music Bot",
   "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls.",
-  "logo": "https://telegra.ph/file/eba02aefd3fef2f02623d.jpg",
+  "logo": "https://telegra.ph/file/2ce59959822b85aa5f468.jpg",
   "keywords": ["music", "voicechat", "telegram"],
-  "repository": "https://github.com/ImJanindu/GroupMusicBot",
+  "repository": "https://github.com/epsipa2/VcPlayer",
   "stack": "container",
   "env": {
     "SESSION_NAME": {
-      "description": "Pyrogram session string"
+      "description": "Pyrogram session string"BACi0yoAD0GzbOKrkEDUSW_bRWIeCm7wktbj_kICKNwqEM-Hngas8jLXOv_P1-wR7_lllqAFE6jJAuXYE_zsfo8zh68_eTBdGzBO_POxU48ZTeYthe3KeFz5l7h9-8mRLsoTpYOB1Ovb5dA9ddz0c_slXtoVrRGAfkPb80Kynvb28llp4LoePexzOQD9VlROEGwolq3D7s2b8rzpMH8IZxGj33-LXVX3P9ekvqHgC6WE48JN0z6uRP5vDVbsrkFicPa0A6Bt2Tu0y0aJ9VXhY3AmbhPIB7MzfDUMUhFp-zhol-eAdvdgkzAz6KeSaBmD-aBIBUu44wQZLTpQUvP602MqUjJ2EwAAAAB1bUfuAA
     },
     "BOT_TOKEN": {
-      "description": "A bot token from @BotFather"
+      "description": "A bot token from @BotFather"5691474077:AAFvN83AXRoUNtaZBAvb16o8R5sFgNHpkEg
     },
     "START_IMG": {
       "description": "Telegraph Link Of An Image",
       "required": false
     },
     "API_ID": {
-      "description": "App ID from my.telegram.org/apps"
+      "description": "App ID from my.telegram.org/apps"10670890
     },
     "API_HASH": {
-      "description": "App hash from my.telegram.org/apps"
+      "description": "App hash from my.telegram.org/apps"b8c18624a9a4b397e9989c30904de9d2
     },
     "SUDO_USERS": {
-      "description": "List of user IDs counted as admin everywhere (separated by space)."
+      "description": "List of user IDs counted as admin everywhere (separated by space)."5516320714
     },
     "ARQ_API_KEY": {
-      "description": "Get It From @ArqRoBot"
+      "description": "Get It From @ArqRoBot"URBSYS-ZYTHMM-XGARCU-QXXZFC-ARQ
     },
     "BOT_USERNAME": {
-      "description": "Your Bot's Username Without @."
+      "description": "Your Bot's Username Without @."epsirafi_bot
     },
     "DURATION_LIMIT": {
       "description": "Max audio duration limit for downloads (minutes).",
-      "value": "10"
+      "value": "10000"
     }
   }
 }
